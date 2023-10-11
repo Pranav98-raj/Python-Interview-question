@@ -1,4 +1,4 @@
-# Python-Interview-question
+# Python-DSA-Interview-question
 Here's a comprehensive list of interview questions on data structures and algorithms, along with their answers and Python code:
 
 **1. Reverse a String**
